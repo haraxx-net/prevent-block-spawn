@@ -1,0 +1,3 @@
+prevent-generation:
+  SOUL_SAND:
+    replacement-material: SAND

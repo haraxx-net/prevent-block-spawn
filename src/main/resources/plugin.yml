@@ -1,0 +1,7 @@
+name: prevent-block-spawn
+version: '1.0-SNAPSHOT'
+main: net.haraxx.preventblockspawn.PreventBlockSpawnPlugin
+api-version: '1.21'
+authors:
+  - gerolndnr
+  - Marcel_Leon
